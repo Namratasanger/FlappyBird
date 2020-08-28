@@ -1,1 +1,1 @@
-<?php header("Location:/FlappyBirdBasic.html");?>
+<?php include_once("FlappyBirdBasic.html") ?>
