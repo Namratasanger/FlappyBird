@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-nginx FlappyBirdBasic.html
+web: vendor/bin/heroku-php-nginx index.php
