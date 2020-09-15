@@ -1,4 +1,8 @@
 {
+
+	"require": {
+    "php": "^7.2.0"
+	}
 	"root" : "./app/index.php",
 	"clean_urls" : true,
 	"https_only" : true,
