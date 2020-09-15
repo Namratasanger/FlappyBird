@@ -1,5 +1,5 @@
 {
-	"root" : "app/index.php",
+	"root" : "./app/index.php",
 	"clean_urls" : true,
 	"https_only" : true,
 	"headers" : {
